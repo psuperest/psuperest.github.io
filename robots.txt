@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://psuperest.github.io/sitemap
+Sitemap: https://psuperest.github.io/app/sitemap
+Sitemap: https://psuperest.github.io/assets/sitemap
+Sitemap: https://psuperest.github.io/css/sitemap
+Sitemap: https://psuperest.github.io/includes/sitemap
+Sitemap: https://psuperest.github.io/item/sitemap
+Sitemap: https://psuperest.github.io/src/sitemap
